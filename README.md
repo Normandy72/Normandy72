@@ -5,18 +5,14 @@
 * AngularJS
 
 #### :thumbsup: My technology stack:
-* C#, .NET Framework
-* Windows forms, WPF
+* C#, .NET Framework, Windows Forms, WPF
 * OOP
 * JavaScript
-* HTML
-* CSS / SASS
-* Bootstrap
+* HTML, CSS / SASS, Bootstrap
 * Figma / Adobe Photoshop
 * Blender
 * Unity
-* C ++ (basic)
-* Python (basic)
+* C ++ (basic), Python (basic)
 * Git / GitHub
 * Docker
 
