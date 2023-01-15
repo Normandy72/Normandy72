@@ -2,7 +2,6 @@
 
 #### :memo: I'm currently learning:
 * How to program games (Unity, Unreal Engine 5)
-* AngularJS
 
 #### :floppy_disk: My technology stack:
 * C#, .NET Framework, Windows Forms, WPF                                
