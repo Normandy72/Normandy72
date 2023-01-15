@@ -1,15 +1,17 @@
 ### Hi, I'm Kate :alien:
 
 #### :books: I'm currently learning:
-* How to program games (Unity, Unreal Engine)
+* How to program games (Unity, Unreal Engine 5)
 * AngularJS
 
 #### :thumbsup: My technology stack:
-* C#, .NET Framework, Windows Forms, WPF                                * OOP
-* JavaScript                                                            * HTML, CSS / SASS, Bootstrap
+* C#, .NET Framework, Windows Forms, WPF                                
+* OOP
+* JavaScript, AngularJS                                                          
+* HTML, CSS / SASS, Bootstrap
 * Figma / Adobe Photoshop
-* Blender
-* Unity
+* Blender / Marmoset / Adobe Substance 3D
+* Unity, Unreal Engine 5
 * C ++ (basic), Python (basic)
 * Git / GitHub
 * Docker
