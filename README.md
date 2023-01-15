@@ -4,7 +4,7 @@
 * How to program games (Unity, Unreal Engine 5)
 * AngularJS
 
-#### :computer: My technology stack:
+#### :floppy_disk: My technology stack:
 * C#, .NET Framework, Windows Forms, WPF                                
 * OOP
 * JavaScript, AngularJS                                                          
