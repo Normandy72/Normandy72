@@ -1,6 +1,6 @@
 ### Hi, I'm Kate :alien:
 
-#### :books: I'm currently learning:
+#### :book: I'm currently learning:
 * How to program games (Unity, Unreal Engine 5)
 * AngularJS
 
