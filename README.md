@@ -22,4 +22,4 @@
 #### :speech_balloon: Languages I speak:
 * Belarusian (Native)
 * German (B2)
-* English (B1)
+* English (B1, in progress)
