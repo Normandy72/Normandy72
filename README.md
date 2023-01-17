@@ -17,7 +17,7 @@
 
 #### :mortar_board: The Education I have:
 * Belarusian National Technical University
-* Belarusian State Medical University
+* Belarusian State Medical University (Pediatrician)
 
 #### :speech_balloon: Languages I speak:
 * Belarusian (Native)
