@@ -4,7 +4,7 @@
 * How to program games (Unity, Unreal Engine 5)
 
 #### :floppy_disk: My technology stack:
-* C#, .NET Framework, Windows Forms, WPF                                
+* .NET Framework, C#, Windows Forms, WPF                                
 * OOP
 * JavaScript, AngularJS                                                          
 * HTML, CSS, SASS, Bootstrap
