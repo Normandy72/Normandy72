@@ -7,10 +7,10 @@
 * C#, .NET Framework, Windows Forms, WPF                                
 * OOP
 * JavaScript, AngularJS                                                          
-* HTML, CSS | SASS, Bootstrap
+* HTML, CSS :white_circle: SASS, Bootstrap
 * Figma
-* Adobe Photoshop | Adobe Substance 3D | Blender | Marmoset | LibreSprite
+* Adobe Photoshop :white_circle: Adobe Substance 3D :white_circle: Blender :white_circle: Marmoset :white_circle: LibreSprite
 * Unity, Unreal Engine 5
 * C ++ (basic), Python (basic)
-* Git | GitHub
+* Git :white_circle: GitHub
 * Docker
