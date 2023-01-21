@@ -4,13 +4,13 @@
 * How to program games (Unity, Unreal Engine 5)
 
 #### :floppy_disk: My technology stack:
-* C# :small_red_triangle: Windows Forms :small_red_triangle: WPF :small_red_triangle: .NET Framework                               
+* C# :small_blue_diamond: Windows Forms :small_blue_diamond: WPF :small_blue_diamond: .NET Framework                               
 * OOP
-* JavaScript :small_red_triangle: AngularJS                                                          
-* HTML :small_red_triangle: CSS :small_red_triangle: SASS :small_red_triangle: Bootstrap
+* JavaScript :small_blue_diamond: AngularJS                                                          
+* HTML :small_blue_diamond: CSS :small_blue_diamond: SASS :small_blue_diamond: Bootstrap
 * Figma
-* Adobe Photoshop :small_red_triangle: Adobe Substance 3D :small_red_triangle: Blender :small_red_triangle: Marmoset :small_red_triangle: LibreSprite
-* Unity :small_red_triangle: Unreal Engine 5
-* C ++ (basic) :small_red_triangle: Python (basic)
-* Git :small_red_triangle: GitHub
+* Adobe Photoshop :small_blue_diamond: Adobe Substance 3D :small_blue_diamond: Blender :small_blue_diamond: Marmoset :small_blue_diamond: LibreSprite
+* Unity :small_blue_diamond: Unreal Engine 5
+* C ++ (basic) :small_blue_diamond: Python (basic)
+* Git :small_blue_diamond: GitHub
 * Docker
