@@ -9,7 +9,7 @@
 * JavaScript, AngularJS                                                          
 * HTML, CSS / SASS, Bootstrap
 * Figma
-* Adobe Photoshop / Blender / Marmoset / Adobe Substance 3D
+* Adobe Photoshop / Blender / Marmoset / Adobe Substance 3D / LibreSprite
 * Unity, Unreal Engine 5
 * C ++ (basic), Python (basic)
 * Git / GitHub
