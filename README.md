@@ -14,12 +14,3 @@
 * C ++ (basic), Python (basic)
 * Git / GitHub
 * Docker
-
-#### :mortar_board: The Education I have:
-* Belarusian National Technical University (Software Engineer)
-* Belarusian State Medical University (Pediatrician)
-
-#### :speech_balloon: Languages I speak:
-* Belarusian (Native)
-* German (B2)
-* English (B1, in progress)
