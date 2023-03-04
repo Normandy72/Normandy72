@@ -6,11 +6,12 @@
 #### :floppy_disk: My technology stack:
 * C# :small_blue_diamond: Windows Forms :small_blue_diamond: WPF :small_blue_diamond: .NET Framework                               
 * OOP
+* Adobe Photoshop :small_blue_diamond: Adobe Substance 3D Painter :small_blue_diamond: Blender :small_blue_diamond: Marmoset :small_blue_diamond: LibreSprite
+* Unity :small_blue_diamond: Unreal Engine 5
+
 * JavaScript :small_blue_diamond: AngularJS                                                          
 * HTML :small_blue_diamond: CSS :small_blue_diamond: SASS :small_blue_diamond: Bootstrap
 * Figma
-* Adobe Photoshop :small_blue_diamond: Adobe Substance 3D Painter :small_blue_diamond: Blender :small_blue_diamond: Marmoset :small_blue_diamond: LibreSprite
-* Unity :small_blue_diamond: Unreal Engine 5
 * C ++ (basic) :small_blue_diamond: Python (basic)
 * Git :small_blue_diamond: GitHub
 * Docker
