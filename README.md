@@ -8,7 +8,6 @@
 * OOP
 * Adobe Photoshop :small_blue_diamond: Adobe Substance 3D Painter :small_blue_diamond: Blender :small_blue_diamond: Marmoset :small_blue_diamond: LibreSprite
 * Unity :small_blue_diamond: Unreal Engine 5
-***
 * JavaScript :small_blue_diamond: AngularJS                                                          
 * HTML :small_blue_diamond: CSS :small_blue_diamond: SASS :small_blue_diamond: Bootstrap
 * Figma
