@@ -10,7 +10,7 @@
 * Unity :small_blue_diamond: Unreal Engine 5
 * JavaScript :small_blue_diamond: AngularJS                                                          
 * HTML :small_blue_diamond: CSS :small_blue_diamond: SASS :small_blue_diamond: Bootstrap
-* Figma
+* Figma :small_blue_diamond: Canva
 * C ++ (basic) :small_blue_diamond: Python (basic)
 * Git :small_blue_diamond: GitHub
 * Docker
