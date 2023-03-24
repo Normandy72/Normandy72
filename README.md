@@ -5,7 +5,7 @@
 
 #### :floppy_disk: My technology stack:
 * C# :small_blue_diamond: Windows Forms :small_blue_diamond: WPF :small_blue_diamond: .NET Framework                               
-* OOP / SOLID
+* OOP :small_blue_diamond: SOLID
 * Adobe Photoshop :small_blue_diamond: Adobe Substance 3D Painter :small_blue_diamond: Blender :small_blue_diamond: Marmoset :small_blue_diamond: LibreSprite
 * Unity :small_blue_diamond: Unreal Engine 5
 * JavaScript :small_blue_diamond: AngularJS                                                          
