@@ -1,6 +1,5 @@
 ### Hi :alien:
 
-#### :floppy_disk: My technology stack:
 * C# :small_blue_diamond: Windows Forms :small_blue_diamond: WPF :small_blue_diamond: .NET Framework     
 * Unity
 * JavaScript :small_blue_diamond: AngularJS                                                          
