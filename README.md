@@ -1,16 +1,9 @@
-### Hi, I'm Kate :alien:
-
-#### :memo: I'm currently learning:
-* How to program games (Unity, Unreal Engine 5)
+### Hi :alien:
 
 #### :floppy_disk: My technology stack:
-* C# :small_blue_diamond: Windows Forms :small_blue_diamond: WPF :small_blue_diamond: .NET Framework                               
-* OOP :small_blue_diamond: SOLID
-* Adobe Photoshop :small_blue_diamond: Adobe Substance 3D Painter :small_blue_diamond: Blender :small_blue_diamond: Marmoset :small_blue_diamond: LibreSprite
-* Unity :small_blue_diamond: Unreal Engine 5
+* C# :small_blue_diamond: Windows Forms :small_blue_diamond: WPF :small_blue_diamond: .NET Framework     
+* Unity
 * JavaScript :small_blue_diamond: AngularJS                                                          
 * HTML :small_blue_diamond: CSS :small_blue_diamond: SASS :small_blue_diamond: Bootstrap
-* Figma :small_blue_diamond: Canva
-* C ++ (basic) :small_blue_diamond: Python (basic)
-* Git :small_blue_diamond: GitHub
-* Docker
+* C ++ :small_blue_diamond: Python
+* Odroid :small_blue_diamond: STM :small_blue_diamond: Raspberry Pi
